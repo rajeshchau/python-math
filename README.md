@@ -5,7 +5,9 @@ This Python application helps users calculate the amount of paint needed to cove
 
 ## Features
 - Calculates paint requirements based on width and height input.
+
 - Provides a simple interface for users to input dimensions and obtain paint estimates.
+
 - Supports customization of paint coverage per square unit to accommodate different types of paint and application methods.
 
 ## Installation
@@ -14,11 +16,15 @@ git clone <repository-url>
 
 css
 Copy code
+
+
 2. Navigate to the project directory:
 cd paint-count-app
 
 arduino
 Copy code
+
+
 3. Install dependencies using pip:
 pip install -r requirements.txt
 
@@ -31,7 +37,11 @@ python paint_count.py
 
 css
 Copy code
+
+
 2. Follow the on-screen prompts to input the width and height of the surface you want to paint.
+
+
 3. The application will calculate and display the estimated amount of paint required to cover the surface.
 
 ## Configuration
